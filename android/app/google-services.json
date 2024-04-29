@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229024881714",
+    "project_id": "abtestingwork-e342f",
+    "storage_bucket": "abtestingwork-e342f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229024881714:android:306f1a39fdc1f7aacfb02b",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEYdDOWqjIHSCYEKFmWKd_082tVNyydNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
